@@ -222,3 +222,4 @@ dmypy.json
 
 *.gz
 *.pkl
+.DS_Store
