@@ -224,4 +224,7 @@ dmypy.json
 *.pkl
 .DS_Store
 
-model
+source_code/model/
+source_code/cache/
+
+!source_code/model/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
